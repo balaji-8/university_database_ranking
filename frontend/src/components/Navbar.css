@@ -1,0 +1,23 @@
+/* Navbar.css */
+.custom-navbar {
+  border-bottom: 1px solid #ddd; /* Add a bottom border */
+  margin-bottom: 20px; /* Add margin below the navbar */
+}
+
+.navbar-brand {
+  font-weight: bold; /* Make the brand name bold */
+}
+
+.nav-link {
+  color: #333; /* Set link color */
+  margin-right: 15px; /* Add margin between links */
+}
+
+.nav-link:hover {
+  color: #007bff; /* Change color on hover */
+}
+
+.active-link {
+  color: #007bff; /* Active link color */
+  text-decoration: underline; /* Underline active link */
+}

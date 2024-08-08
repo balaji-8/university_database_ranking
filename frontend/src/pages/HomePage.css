@@ -1,0 +1,36 @@
+/* HomePage.css */
+.homepage-container {
+  /* Add any container-specific styles here */
+}
+
+.homepage-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.homepage-description {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.homepage-row {
+  /* Add any row-specific styles here */
+}
+
+.homepage-card {
+  /* Add any card-specific styles here */
+}
+
+.homepage-card-title {
+  font-weight: bold;
+  /* Add any card title-specific styles here */
+}
+
+.homepage-card-text {
+  /* Add any card text-specific styles here */
+}
+
+.homepage-button {
+  width: 100%; /* Make the button full width */
+  margin-top: 10px;
+}
